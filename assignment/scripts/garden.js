@@ -1,12 +1,15 @@
 // 1 - Create a variable called `plantType` and assign it the value of a plant type (e.g., "Tomato", "Rose", "Lavender")
-
-
+var plantType = "Tomato"
+var plantType = "Rose"
+var plantType = "Lavender"
 // 2 - Create a second variable called `plantHeight` and assign it the value of the plant's height in inches (e.g., 12, 24, 36)
-
-
+var plantHeight = "12"
+var plantHeight = "24"
+var plantHeight = "36"
 // 3 - Create a third variable called `plantLocation` and assign it the value of where the plant is located (e.g., "Backyard", "Balcony", "Indoor")
-
-
+var plantLocation = "Backyard"
+var plantLocation = "Balcony"
+var plantLocation = "Indoor"
 // 4 - Console log the value of each variable
 
 
