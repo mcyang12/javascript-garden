@@ -42,12 +42,13 @@ if (isOutdoor){
 
 // 9 - Write a conditional that console logs "Water the plant" if the value of `daysSinceLastWatering` is greater than or equal to 2,
 // and console logs "Do not water the plant yet" if the value is less than 2.
-console.log("Water the plant", "daysSinceLastWatering" >/= 2);
-console.log("Do not water the plant yet" < 2);
-
+if (daysSinceLastWatering){
+    console.log("Water the plant" >= 2);
+    console.log("Do not water the plant yet" < 2);
+}
 
 // 10 - Create a variable called `daysToWater` and set it to 7
-var daysToWater = 7
+var daysToWater = 7;
 
 // 11 - Create a while loop that logs "Water the plant" while `daysToWater` is greater than 0,
 // and decrements `daysToWater` by 1 in each iteration
