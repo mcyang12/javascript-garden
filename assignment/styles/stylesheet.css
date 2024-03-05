@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #cbf1d4; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    color: #44724f; 
+  }
+  
+  p {
+    color: #1a211e; 
+  }
+  
+  /* Container for the main content */
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff; 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    text-align: center;
+  }
+  
