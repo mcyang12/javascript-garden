@@ -55,4 +55,11 @@ var daysToWater = 7;
 
 
 // 12 - Create a for loop that logs "Check for pests" for each day of the week (i.e., 7 times)
-
+console.log(1)
+console.log(2)
+console.log(3)
+console.log(4)
+console.log(5)
+console.log(6)
+console.log(7)
+console.log("Check for pests")
