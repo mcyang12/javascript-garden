@@ -33,7 +33,7 @@ var waterFrequency = ("How often the plant needs watering" + Weekly);
 var waterFrequency = ("How often the plant needs watering" + Bi-weekly);
 
 // 7 - Create a variable called `daysSinceLastWatering` and set it to the number of days since the plant was last watered
-var daysSinceLastWatering = "1"
+var daysSinceLastWatering = "1";
 
 // 8 - Create a conditional: if `isOutdoor` is true, console log "Remember to check the weather forecast!"
 if (isOutdoor){
@@ -65,4 +65,4 @@ console.log(4)
 console.log(5)
 console.log(6)
 console.log(7)
-console.log("Check for pests")
+console.log("Check for pests");
