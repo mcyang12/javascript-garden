@@ -52,7 +52,10 @@ var daysToWater = 7;
 
 // 11 - Create a while loop that logs "Water the plant" while `daysToWater` is greater than 0,
 // and decrements `daysToWater` by 1 in each iteration
-
+while (daysToWater > 0) {
+    console.log(Water the plant);
+    daysToWater = daysToWater - 1;
+}
 
 // 12 - Create a for loop that logs "Check for pests" for each day of the week (i.e., 7 times)
 console.log(1)
