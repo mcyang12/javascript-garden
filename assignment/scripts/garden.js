@@ -14,15 +14,15 @@ var plantLocation = "Balcony";
 var plantLocation = "Indoor";
 
 // 4 - Console log the value of each variable
-console.log(Tomato);
-console.log(Rose);
-console.log(Lavender);
-console.log(12);
-console.log(24);
-console.log(36);
-console.log(Backyard);
-console.log(Balcony);
-console.log(Indoor);
+console.log("Tomato");
+console.log("Rose");
+console.log("Lavender");
+console.log("12");
+console.log("24");
+console.log("36");
+console.log("Backyard");
+console.log("Balcony");
+console.log("Indoor");
 
 // 5 - Create a variable named `isOutdoor` and set it to a boolean value (true or false) indicating whether the plant is outdoors
 var isOutdoor = true/false;
