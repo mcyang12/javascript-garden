@@ -53,7 +53,7 @@ var daysToWater = 7;
 // 11 - Create a while loop that logs "Water the plant" while `daysToWater` is greater than 0,
 // and decrements `daysToWater` by 1 in each iteration
 while (daysToWater > 0) {
-    console.log(Water the plant);
+    console.log("Water the plant");
     daysToWater = daysToWater - 1;
 }
 
